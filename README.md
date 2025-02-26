@@ -41,5 +41,4 @@ Eu sou Brunno, mais conhecido como Galamba. Atualmente, atuo como Analista de Si
 
  ##
 
- ![Snake animation](https://brunno95.github.io/snake/github-contribution-grid-snake.svg)
- ![Snake animation](https://brunno95.github.io/snake/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/brunno95/brunno95/blob/output/github-snake-dark.svg)

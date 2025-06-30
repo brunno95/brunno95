@@ -1,7 +1,7 @@
 ## Olá, Mundo! 👋🧑‍💻
 
 ### Resumo 
-Eu sou Brunno, mais conhecido como Galamba. Atualmente, atuo como Analista de Sistemas Pleno em uma rede de farmácias mas sou Desenvolvedor Java Jr, recém-formado em Análise e Desenvolvimento de Sistemas.
+Eu sou Brunno, mais conhecido como Galamba. Atualmente, atuo como Desenvolvedor Júnior na MV e recém-formado em Análise e Desenvolvimento de Sistemas.
 
 ### Minhas habilidades 
 

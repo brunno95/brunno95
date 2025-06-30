@@ -16,7 +16,7 @@ Eu sou Brunno, mais conhecido como Galamba. Atualmente, atuo como Desenvolvedor 
 🚀 Hard Skills:
 
 * Linguagens: Java e SQL
-* Frameworks: Spring Boot
+* Framework: Spring Boot
 * Bancos de dados: MySQL e Oracle with PL/SQL
 * Versionamento: Git, GitHub e GitLab
 * Metodologias Ágeis: Jira (Scrum e Kanban)

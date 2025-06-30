@@ -17,9 +17,9 @@ Eu sou Brunno, mais conhecido como Galamba. Atualmente, atuo como Analista de Si
 
 * Linguagens: Java
 * Frameworks: Spring Boot
-* Banco de dados: MySQL
-* Versionamento: Git e GitHub 
-* Metodologias Ágeis: Scrum e Kanban
+* Banco de dados: MySQL e Oracle with PL/SQL
+* Versionamento: Git, GitHub e Gitlab
+* Metodologias Ágeis: Jira (Scrum e Kanban)
 
 <!-- Status -->
 <div align="center">

@@ -29,31 +29,32 @@ Eu sou Brunno, mais conhecido como Galamba. Atualmente, atuo como Desenvolvedor 
 <div align="center">
   
 ## Tecnologias
- <img align="center" height="40" width="75" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
- <img align="center" height="40" width="75" src="https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000">
+ <img align="center" height="100" width="100" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+ <img align="center" height="100" width="100" src="https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000">
 </div>
 
 <!-- Frameworks -->
 <div align="center">
   
 ## Frameworks
- <img align="center" height="40" width="75" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+ <img align="center" height="100" width="100" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
 </div>
 
 <!-- Banco de Dados -->
 <div align="center">
   
 ## Banco de Dados
- <img align="center" height="40" width="100" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+ <img align="center" height="100" width="100" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+ <img align="center" height="100" width="100" src="https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000">
 </div>
 
 <!-- Ferramentas -->
 <div align="center">
   
 ## Ferramentas
- <img align="center" height="40" width="75" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
- <img align="center" height="50" width="100" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white">
- <img align="center" height="40" width="75" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+ <img align="center" height="100" width="100" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+ <img align="center" height="100" width="100" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white">
+ <img align="center" height="100" width="100" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </div>
 
  <!-- Redes sociais -->

@@ -28,7 +28,7 @@ Eu sou Brunno, mais conhecido como Galamba. Atualmente, atuo como Desenvolvedor 
 <!-- Tecnologias -->
 <div align="center">
   
-## Tecnologias
+## Linguagens
  <!-- <img align="center" height="100" width="100" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
  <img align="center" height="100" width="100" src="https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000"> -->
  <img align="center" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />

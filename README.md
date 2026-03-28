@@ -1,7 +1,7 @@
 ## Olá, Mundo! 👋🧑‍💻
 
 ### Resumo 
-Eu sou Brunno, mais conhecido como Galamba. Atualmente, atuo como Desenvolvedor Júnior na MV e recém-formado em Análise e Desenvolvimento de Sistemas.
+Eu sou Brunno, mais conhecido como Galamba. Atualmente, atuo como Desenvolvedor Júnior na maior Health Tech da América Latina com foco total em IA.
 
 ### Minhas habilidades 
 
@@ -16,7 +16,7 @@ Eu sou Brunno, mais conhecido como Galamba. Atualmente, atuo como Desenvolvedor 
 🚀 Hard Skills:
 
 * Linguagens: Java e SQL
-* Framework: Spring Boot
+* Framework: Spring Boot e Morphis
 * Bancos de dados: MySQL e Oracle with PL/SQL
 * Versionamento: Git, GitHub e GitLab
 * Metodologias Ágeis: Jira (Scrum e Kanban)

@@ -20,6 +20,13 @@ Eu sou Brunno, mais conhecido como Galamba. Atualmente, atuo como Desenvolvedor 
 * Bancos de dados: MySQL e Oracle with PL/SQL
 * Versionamento: Git, GitHub e GitLab
 * Metodologias Ágeis: Jira (Scrum e Kanban)
+
+<!-- Status -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brunno95&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+
+<!-- Tecnologias -->
+<div align="center">
   
 ## Linguagens
  <!-- <img align="center" height="100" width="100" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">

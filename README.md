@@ -22,8 +22,8 @@ Eu sou Brunno, mais conhecido como Galamba. Atualmente, atuo como Desenvolvedor 
 * Metodologias Ágeis: Jira (Scrum e Kanban)
 
 <!-- Status -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunno95&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+<!-- <div align="center"> -->
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=brunno95&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br> -->
 
 <!-- Tecnologias -->
 <div align="center">
